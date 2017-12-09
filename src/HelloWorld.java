@@ -7,7 +7,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub sample
 		
-		System.out.println("Sample text" + " Amrit sharma");
+		System.out.println("Sample text" + " Amrit abcd sharma");
 	}
 
 }
